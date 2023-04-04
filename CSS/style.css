@@ -1,0 +1,4 @@
+.slick-dots{display:flex;gap:20px;list-style-type: none;justify-content: center;}
+
+.slick-dots li button{border: none;border-radius: 50%;height: 30px;width: 30px;}
+.slick-dots .slick-active button{border: none;border-radius: 50%;height: 30px;width: 30px;background-color: #afaeae;}
